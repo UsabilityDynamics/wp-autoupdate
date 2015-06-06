@@ -1,5 +1,5 @@
 {
-	"name": "wpplex/wp-autoupdate",
+	"name": "UsabilityDynamics/wp-autoupdate",
 	"type": "library",
 	"description": "Create your own self-hosted WordPress Plugin repository for pushing automatic updates.",
 	"keywords": ["wordpress", "auto-update"],
